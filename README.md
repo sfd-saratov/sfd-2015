@@ -1,16 +1,15 @@
-sfd-2014
+sfd-2015
 ========
 
-SFD 2014 basic repository
+SFD 2015 basic repository
 
 Documentation
 =============
 
-* http://wiki.softwarefreedomday.org/2014/Russia/Saratov
-* https://vk.com/sfd2014saratov
+* http://wiki.softwarefreedomday.org/2015/Russia/Saratov
+* https://vk.com/sfd2015saratov
 
 Events
 ======
 
 First form: 
-http://goo.gl/Lx5WSd
